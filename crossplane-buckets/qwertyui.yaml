@@ -1,0 +1,15 @@
+labels:
+  org: amc
+  env: mgmt
+  region: asia-south1
+  project: mgmt-gmf-applayer-a05e
+  cluster: mgmt-gmf-cluster
+  cloud: gcp
+  datacenter: primary
+  pod: amc
+  tier: t1
+  cell: none
+  function: bucket
+bucket:
+  name: qwertyui
+  location: ASIA-SOUTH1
