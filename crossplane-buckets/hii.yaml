@@ -1,0 +1,15 @@
+labels:
+  org: abc
+  env: prod
+  region: asia-south1
+  project: amc-prod
+  cluster: amc-prod-cluster
+  cloud: gcp
+  datacenter: primary
+  pod: amc-prod-pod-1
+  tier: t1
+  cell: none
+  function: bucket
+bucket:
+  name: hii
+  location: ASIA-SOUTH1
