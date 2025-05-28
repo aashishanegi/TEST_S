@@ -1,0 +1,17 @@
+apiVersion: storage.cnrm.cloud.google.com/v1beta1
+kind: GCSBucket
+metadata:
+  name: your-test-bucket-name
+  labels:
+    org: your-org
+    env: dev
+    project: your-gcp-project-id
+    cluster: your-gke-cluster
+    cloud: gcp
+    datacenter: primary
+    pod: your-pod
+    tier: t1
+    cell: none
+    function: bucket
+spec:
+  location: ASIA-SOUTH1
