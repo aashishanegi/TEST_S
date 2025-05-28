@@ -1,0 +1,15 @@
+labels:
+  org: elements
+  env: preprod
+  region: asia-south1
+  project: prod-growwpay-applayer-6bd0
+  cluster: pp-growwpay-cluster-01
+  cloud: gcp
+  datacenter: primary
+  pod: Elements (PG)
+  tier: t1
+  cell: none
+  function: bucket
+bucket:
+  name: hey
+  location: ASIA-SOUTH1
