@@ -1,0 +1,15 @@
+labels:
+  org: AMC
+  env: Prod
+  region: asia-south1
+  project: prod-gmf-applayer-4654
+  cluster: prod-gmf-cluster
+  cloud: gcp
+  datacenter: primary
+  pod: AMC
+  tier: t1
+  cell: none
+  function: bucket
+bucket:
+  name: hii12345
+  location: ASIA-SOUTH1
