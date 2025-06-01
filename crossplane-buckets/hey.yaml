@@ -1,0 +1,15 @@
+labels:
+  org: amc
+  env: stage
+  region: asia-south1
+  project: stage-gmf-applayer-43e8
+  cluster: stage-gmf-cluster
+  cloud: gcp
+  datacenter: primary
+  pod: amc
+  tier: t1
+  cell: none
+  function: bucket
+bucket:
+  name: hey
+  location: ASIA-SOUTH1
