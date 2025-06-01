@@ -1,0 +1,15 @@
+labels:
+  org: bgv
+  env: preprod
+  region: asia-south1
+  project: prod-cp-applayer-01-7d1d
+  cluster: pp-cp-cluster-001
+  cloud: gcp
+  datacenter: primary
+  pod: CP
+  tier: t1
+  cell: none
+  function: bucket
+bucket:
+  name: test4
+  location: ASIA-SOUTH1
