@@ -1,0 +1,15 @@
+labels:
+  org: bgv
+  env: Stage
+  region: asia-south1
+  project: stage-bgv-applayer-01-d020
+  cluster: stage-bgv-cluster-001
+  cloud: gcp
+  datacenter: primary
+  pod: Platform
+  tier: t1
+  cell: none
+  function: bucket
+bucket:
+  name: testing20
+  location: ASIA-SOUTH1
