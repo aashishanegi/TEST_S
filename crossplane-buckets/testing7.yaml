@@ -1,0 +1,15 @@
+labels:
+  org: bgv
+  env: Stage
+  region: asia-south1
+  project: stage-gmf-applayer-43e8
+  cluster: stage-gmf-cluster
+  cloud: gcp
+  datacenter: primary
+  pod: AMC
+  tier: t1
+  cell: none
+  function: bucket
+bucket:
+  name: testing7
+  location: ASIA-SOUTH1
